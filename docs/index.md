@@ -1,4 +1,4 @@
-![Author](https://img.shields.io/badge/Author-iyingdong-green.svg)
+![Author](https://img.shields.io/badge/Author-Erick Rhul-green.svg)
 [![Conda](https://img.shields.io/conda/pn/conda-forge/python.svg)]()
 
 ## 目录
