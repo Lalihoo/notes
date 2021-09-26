@@ -1,0 +1,1 @@
+import{r as n,o as t,c as o,w as s,s as a}from"./vendor.2a44299e.js";const r={},e=a("n-button");r.render=function(a,r){const u=n("n-button");return t(),o(u,null,{default:s((()=>[e])),_:1})};export{r as default};
