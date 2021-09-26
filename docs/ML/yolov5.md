@@ -1,6 +1,4 @@
-## [首页](/notes/index.md)
-
-## [目录](index.md)
+## [首页](/notes) / [目录](/index.md)
 
 ## Yolov5 模型训练及使用
 

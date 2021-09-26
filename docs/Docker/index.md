@@ -1,2 +1,2 @@
-## [首页](/notes/index.md)
+## [首页](/notes)
 
