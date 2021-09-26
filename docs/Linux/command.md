@@ -1,4 +1,7 @@
-## [目录](/index.md)
+## [首页](/notes/index.md)
+
+## [目录](index.md)
+
 
 #### 文件大小
 
