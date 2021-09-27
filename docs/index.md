@@ -13,5 +13,5 @@
 
 #### Deep Learning
 
-* [Yolov5](ML/yolov5.md)
+* [Yolov5](DL/yolov5.md)
 
