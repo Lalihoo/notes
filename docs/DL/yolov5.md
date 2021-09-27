@@ -10,6 +10,6 @@
 
 #### 模型使用
 
-[使用方式](https://github.com/Lalihoo/yolov5-detect)
++ [使用方式](https://github.com/Lalihoo/yolov5-detect)
 
   
