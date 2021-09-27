@@ -3,15 +3,15 @@
 
 ## 目录
 
-#### [Linux](Linux/index.md)
+#### Linux
 
 + [常用命令](Linux/command.md)
 
-#### [Docker](Docker/index.md)
+#### Docker
 
 + [基础](Docker/base.md)
 
-#### [Machine Learning](ML/index.md)
+#### Deep Learning
 
 * [Yolov5](ML/yolov5.md)
 
